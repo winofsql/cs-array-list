@@ -82,7 +82,6 @@ namespace cs_array_list
                 act.print( value );
             }
 
-
         }
 
         private void print(int v)
